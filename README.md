@@ -1,5 +1,6 @@
 # text_analysis_tools
 > 文本分析工具包, 可以直接运行 “python examples.py” 进行样例测试。
+> 已修改textrank_summarization.py中相似度计算的部分，采用paraphrase-multilingual-MiniLM-L12-v2进行相似度计算
 
 # 目录
 - test_data: 测试数据
